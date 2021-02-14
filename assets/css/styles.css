@@ -388,9 +388,7 @@ i {
     padding-top: 4rem;
     padding-bottom: 3rem;
   }
-  .section-title {
-    margin-bottom: var(--mb-6);
-  }
+
   .section-title::after {
     width: 80px;
     top: 3rem;
